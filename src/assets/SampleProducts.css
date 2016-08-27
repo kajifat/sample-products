@@ -1,0 +1,12 @@
+h1, form {
+    display:inline-block;
+}
+
+.pull-right{
+    margin: 20px auto 10px auto;
+}
+
+.table-response{
+    clear:both;
+}
+
